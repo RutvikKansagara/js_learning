@@ -1,0 +1,23 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "opr":"node operators_expressions.js",
+    "var":"node variable_datatypes.js",
+    "control":"node control_flow_statements.js",
+    "func":"node functions.js",
+    "obj":"node objects.js",
+    "class":"node classes.js",
+    "call":"node callbacks.js",
+    "promise":"node promises.js",
+    "async":"node asynchronous_programing.js",
+    "event":"node eventloop.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
